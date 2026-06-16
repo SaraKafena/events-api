@@ -1,1 +1,114 @@
-
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "AI Workshop",
+      "description": "Introduction to Artificial Intelligence",
+      "category": "Technology",
+      "date": "2026-06-10",
+      "time": "10:00 AM",
+      "location": "Engineering Hall",
+      "seats": 80,
+      "image": "https://example.com/ai.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Cyber Security Day",
+      "description": "Learn about cybersecurity threats and protection",
+      "category": "Security",
+      "date": "2026-06-15",
+      "time": "02:00 PM",
+      "location": "Computer Science Building",
+      "seats": 50,
+      "image": "https://example.com/security.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Robotics Competition",
+      "description": "Build and compete with your own robot",
+      "category": "Engineering",
+      "date": "2026-06-20",
+      "time": "09:00 AM",
+      "location": "Engineering Hall",
+      "seats": 30,
+      "image": "https://example.com/robotics.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Data Science Bootcamp",
+      "description": "Intensive training on data analysis and machine learning",
+      "category": "Technology",
+      "date": "2026-06-25",
+      "time": "10:00 AM",
+      "location": "Lab 301",
+      "seats": 40,
+      "image": "https://example.com/datascience.jpg"
+    },
+    {
+      "id": 5,
+      "title": "University Open Day",
+      "description": "Explore our campus and meet the faculty",
+      "category": "General",
+      "date": "2026-07-01",
+      "time": "10:00 AM",
+      "location": "Main Campus",
+      "seats": 200,
+      "image": "https://example.com/openday.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Hackathon 2026",
+      "description": "48-hour coding challenge with exciting prizes",
+      "category": "Technology",
+      "date": "2026-07-05",
+      "time": "08:00 AM",
+      "location": "Innovation Center",
+      "seats": 100,
+      "image": "https://example.com/hackathon.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Career Fair",
+      "description": "Meet top employers and find your dream job",
+      "category": "Career",
+      "date": "2026-07-10",
+      "time": "09:00 AM",
+      "location": "Sports Hall",
+      "seats": 150,
+      "image": "https://example.com/career.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Research Symposium",
+      "description": "Present your research and learn from others",
+      "category": "Academic",
+      "date": "2026-07-15",
+      "time": "10:00 AM",
+      "location": "Conference Room A",
+      "seats": 60,
+      "image": "https://example.com/research.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Sports Tournament",
+      "description": "Competitive sports events across multiple disciplines",
+      "category": "Sports",
+      "date": "2026-07-20",
+      "time": "08:00 AM",
+      "location": "Sports Complex",
+      "seats": 100,
+      "image": "https://example.com/sports.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Art Exhibition",
+      "description": "Showcasing student artwork and creativity",
+      "category": "Arts",
+      "date": "2026-07-25",
+      "time": "10:00 AM",
+      "location": "Art Gallery",
+      "seats": 50,
+      "image": "https://example.com/art.jpg"
+    }
+  ]
+}
