@@ -109,6 +109,61 @@
       "location": "Art Gallery",
       "seats": 50,
       "image": "https://example.com/art.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Music Festival",
+      "description": "Annual university music festival with live bands",
+      "category": "Arts",
+      "date": "2026-08-01",
+      "time": "06:00 PM",
+      "location": "Main Amphitheater",
+      "seats": 300,
+      "image": "https://example.com/music.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Entrepreneurship Workshop",
+      "description": "Learn how to start and grow your own business",
+      "category": "Business",
+      "date": "2026-08-05",
+      "time": "10:00 AM",
+      "location": "Business School",
+      "seats": 45,
+      "image": "https://example.com/entrepreneurship.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Environmental Summit",
+      "description": "Discussing climate change and sustainability solutions",
+      "category": "Environment",
+      "date": "2026-08-10",
+      "time": "09:00 AM",
+      "location": "Science Center",
+      "seats": 120,
+      "image": "https://example.com/environment.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Film Screening: The Future of AI",
+      "description": "Documentary screening followed by panel discussion",
+      "category": "Media",
+      "date": "2026-08-15",
+      "time": "07:00 PM",
+      "location": "Media Hall",
+      "seats": 80,
+      "image": "https://example.com/film.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Cultural Night",
+      "description": "Celebrating diversity with food, music, and dance",
+      "category": "Culture",
+      "date": "2026-08-20",
+      "time": "06:00 PM",
+      "location": "Student Center",
+      "seats": 250,
+      "image": "https://example.com/culture.jpg"
     }
   ]
 }
